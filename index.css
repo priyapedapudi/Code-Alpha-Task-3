@@ -1,0 +1,23 @@
+#cv-form{
+    /*display: none;*/
+}
+
+#cv-template{
+    display: none;
+}
+
+.heading{
+    color: blue;
+}
+
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+}
+
+.bg-clr{
+    background-color: aquamarine;
+}
+.name{
+    font-weight: 980;
+}
